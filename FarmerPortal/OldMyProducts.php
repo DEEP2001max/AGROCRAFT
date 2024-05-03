@@ -688,10 +688,10 @@
 
      </div>
      <div class="instaid">
-          <div class="text"><a href="#" style="color:black;">@AgroCraft</a></div>
+          <div class="text"><a href="#" style="color:black;">@Soumyadeep</a></div>
 
           <div class="gmailid">
-               <a href="#" class="hypher" style="color:black;">agrocraft6@gmail.com</a>
+               <a href="#" class="hypher" style="color:black;">soumya.ughs@gmail.com</a>
           </div>
 
      </div>
